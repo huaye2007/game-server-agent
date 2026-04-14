@@ -2,3 +2,6 @@ openai>=1.0.0
 rich>=13.0.0
 prompt_toolkit>=3.0.0
 openpyxl>=3.1.0
+
+# Optional: for Claude provider
+# anthropic>=0.30.0
